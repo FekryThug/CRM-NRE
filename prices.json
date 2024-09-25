@@ -1,0 +1,306 @@
+{
+    "A-1": {
+        "3_5": { "area": 281, "pricePerSqm": 52900, "totalPrice": 14864900 },
+        "6_8": { "area": 281, "pricePerSqm": 53250, "totalPrice": 14963250 },
+        "9_11": { "area": 281, "pricePerSqm": 53750, "totalPrice": 15103750 }
+    },
+    "A-2": {
+        "3_5": { "area": 300, "pricePerSqm": 54000, "totalPrice": 16200000 },
+        "6_8": { "area": 300, "pricePerSqm": 54400, "totalPrice": 16320000 },
+        "9_11": { "area": 300, "pricePerSqm": 55050, "totalPrice": 16515000 }
+    },
+    "B-1": {
+        "3_5": { "area": 320, "pricePerSqm": 54000, "totalPrice": 17280000 },
+        "6_8": { "area": 320, "pricePerSqm": 54400, "totalPrice": 17408000 },
+        "9_11": { "area": 320, "pricePerSqm": 55050, "totalPrice": 17616000 }
+    },
+    "B-2": {
+        "3_5": { "area": 316, "pricePerSqm": 52900, "totalPrice": 16716400 },
+        "6_8": { "area": 316, "pricePerSqm": 53250, "totalPrice": 16827000 },
+        "9_11": { "area": 316, "pricePerSqm": 53750, "totalPrice": 16985000 }
+    },
+    "C-1": {
+        "3_5": { "area": 206, "pricePerSqm": 43950, "totalPrice": 9053700 },
+        "6_11": { "area": 206, "pricePerSqm": 44200, "totalPrice": 9105200 }
+    },
+    "C-2": {
+        "3_5": { "area": 196, "pricePerSqm": 38800, "totalPrice": 7604800 },
+        "6_11": { "area": 196, "pricePerSqm": 39200, "totalPrice": 7683200 }
+    },
+    "C-3": {
+        "3_5": { "area": 184, "pricePerSqm": 38100, "totalPrice": 7010400 },
+        "6_11": { "area": 184, "pricePerSqm": 38500, "totalPrice": 7084000 }
+    },
+    "C-4": {
+        "3_5": { "area": 183, "pricePerSqm": 42200, "totalPrice": 7722600 },
+        "6_11": { "area": 183, "pricePerSqm": 42600, "totalPrice": 7795800 }
+    },
+    "C-5": {
+        "3_5": { "area": 185, "pricePerSqm": 43950, "totalPrice": 8130750 },
+        "6_11": { "area": 185, "pricePerSqm": 44200, "totalPrice": 8177000 }
+    },
+    "C-6": {
+        "3_5": { "area": 188, "pricePerSqm": 43000, "totalPrice": 8084000 },
+        "6_11": { "area": 188, "pricePerSqm": 43400, "totalPrice": 8159200 }
+    },
+    "D-1": {
+        "3_5": { "area": 186, "pricePerSqm": 38800, "totalPrice": 7216800 },
+        "6_11": { "area": 186, "pricePerSqm": 39200, "totalPrice": 7291200 }
+    },
+    "D-2": {
+        "3_5": { "area": 221, "pricePerSqm": 42200, "totalPrice": 9326200 },
+        "6_11": { "area": 221, "pricePerSqm": 42600, "totalPrice": 9414600 }
+    },
+    "D-3": {
+        "3_5": { "area": 188, "pricePerSqm": 43950, "totalPrice": 8262600 },
+        "6_11": { "area": 188, "pricePerSqm": 44200, "totalPrice": 8309600 }
+    },
+    "D-4": {
+        "3_5": { "area": 189, "pricePerSqm": 43000, "totalPrice": 8127000 },
+        "6_11": { "area": 189, "pricePerSqm": 43400, "totalPrice": 8202600 }
+    },
+    "D-5": {
+        "3_5": { "area": 193, "pricePerSqm": 36050, "totalPrice": 6957650 },
+        "6_11": { "area": 193, "pricePerSqm": 36450, "totalPrice": 7034850 }
+    },
+    "E-1": {
+        "3_5": { "area": 195, "pricePerSqm": 34950, "totalPrice": 6815250 },
+        "6_11": { "area": 195, "pricePerSqm": 35400, "totalPrice": 6903000 }
+    },
+    "E-2": {
+        "3_5": { "area": 189, "pricePerSqm": 42200, "totalPrice": 7975800 },
+        "6_11": { "area": 189, "pricePerSqm": 42600, "totalPrice": 8051400 }
+    },
+    "E-3": {
+        "3_5": { "area": 184, "pricePerSqm": 42200, "totalPrice": 7764800 },
+        "6_11": { "area": 184, "pricePerSqm": 42600, "totalPrice": 7838400 }
+    },
+    "E-4": {
+        "3_5": { "area": 190, "pricePerSqm": 43000, "totalPrice": 8170000 },
+        "6_11": { "area": 190, "pricePerSqm": 43400, "totalPrice": 8246000 }
+    },
+    "E-5": {
+        "3_5": { "area": 195, "pricePerSqm": 34950, "totalPrice": 6815250 },
+        "6_11": { "area": 195, "pricePerSqm": 35400, "totalPrice": 6903000 }
+    },
+    "E-6": {
+        "3_5": { "area": 190, "pricePerSqm": 34300, "totalPrice": 6517000 },
+        "6_11": { "area": 190, "pricePerSqm": 34700, "totalPrice": 6593000 }
+    },
+    "F-1": {
+        "3_4": { "area": 140, "pricePerSqm": 32650, "totalPrice": 4571000 },
+        "5_11": { "area": 140, "pricePerSqm": 33050, "totalPrice": 4627000 }
+    },
+    "F-2": {
+        "3_4": { "area": 169, "pricePerSqm": 34450, "totalPrice": 5822050 },
+        "5_11": { "area": 169, "pricePerSqm": 34700, "totalPrice": 5864300 }
+    },
+    "F-3": {
+        "3_4": { "area": 183, "pricePerSqm": 43000, "totalPrice": 7869000 },
+        "5_11": { "area": 183, "pricePerSqm": 43400, "totalPrice": 7942200 }
+    },
+    "F-4": {
+        "3_4": { "area": 149, "pricePerSqm": 40550, "totalPrice": 6041950 },
+        "5_11": { "area": 149, "pricePerSqm": 40800, "totalPrice": 6079200 }
+    },
+    "F-5": {
+        "3_4": { "area": 154, "pricePerSqm": 38800, "totalPrice": 5975200 },
+        "5_11": { "area": 154, "pricePerSqm": 39200, "totalPrice": 6036800 }
+    },
+    "F-6": {
+        "3_4": { "area": 154, "pricePerSqm": 37850, "totalPrice": 5828900 },
+        "5_11": { "area": 154, "pricePerSqm": 38100, "totalPrice": 5867400 }
+    },
+    "F-7": {
+        "3_4": { "area": 150, "pricePerSqm": 32650, "totalPrice": 4897500 },
+        "5_11": { "area": 150, "pricePerSqm": 33050, "totalPrice": 4957500 }
+    },
+    "F-8": {
+        "3_4": { "area": 149, "pricePerSqm": 32650, "totalPrice": 4864850 },
+        "5_11": { "area": 149, "pricePerSqm": 33050, "totalPrice": 4924450 }
+    },
+    "G-1": {
+        "3_4": { "area": 153, "pricePerSqm": 32100, "totalPrice": 4911300 },
+        "5_11": { "area": 153, "pricePerSqm": 32550, "totalPrice": 4980150 }
+    },
+    "G-2": {
+        "3_4": { "area": 153, "pricePerSqm": 32100, "totalPrice": 4911300 },
+        "5_11": { "area": 153, "pricePerSqm": 32550, "totalPrice": 4980150 }
+    },
+    "G-3": {
+        "3_4": { "area": 153, "pricePerSqm": 37400, "totalPrice": 5722200 },
+        "5_11": { "area": 153, "pricePerSqm": 37850, "totalPrice": 5791050 }
+    },
+    "G-4": {
+        "3_4": { "area": 154, "pricePerSqm": 37150, "totalPrice": 5721100 },
+        "5_11": { "area": 154, "pricePerSqm": 37550, "totalPrice": 5782700 }
+    },
+    "G-5": {
+        "3_4": { "area": 154, "pricePerSqm": 36900, "totalPrice": 5645700 },
+        "5_11": { "area": 154, "pricePerSqm": 37150, "totalPrice": 5683950 }
+    },
+    "G-6": {
+        "3_4": { "area": 153, "pricePerSqm": 36450, "totalPrice": 5503950 },
+        "5_11": { "area": 153, "pricePerSqm": 36900, "totalPrice": 5571900 }
+    },
+    "G-7": {
+        "3_4": { "area": 151, "pricePerSqm": 31850, "totalPrice": 4809350 },
+        "5_11": { "area": 151, "pricePerSqm": 32100, "totalPrice": 4847100 }
+    },
+    "G-8": {
+        "3_4": { "area": 151, "pricePerSqm": 31850, "totalPrice": 4873050 },
+        "5_11": { "area": 151, "pricePerSqm": 32100, "totalPrice": 4911300 }
+    },
+    "G-9": {
+        "3_4": { "area": 153, "pricePerSqm": 31850, "totalPrice": 4873050 },
+        "5_11": { "area": 153, "pricePerSqm": 32100, "totalPrice": 4911300 }
+    },
+    "G-10": {
+        "3_4": { "area": 154, "pricePerSqm": 31850, "totalPrice": 4904900 },
+        "5_11": { "area": 154, "pricePerSqm": 32100, "totalPrice": 4943400 }
+    },
+    "H-1": {
+        "3_4": { "area": 151, "pricePerSqm": 31850, "totalPrice": 4809350 },
+        "5_11": { "area": 151, "pricePerSqm": 32100, "totalPrice": 4847100 }
+    },
+    "H-2": {
+        "3_4": { "area": 151, "pricePerSqm": 35400, "totalPrice": 5239200 },
+        "5_11": { "area": 151, "pricePerSqm": 35650, "totalPrice": 5276200 }
+    },
+    "H-3": {
+        "3_4": { "area": 148, "pricePerSqm": 35400, "totalPrice": 5239200 },
+        "5_11": { "area": 148, "pricePerSqm": 35650, "totalPrice": 5276200 }
+    },
+    "H-4": {
+        "3_4": { "area": 183, "pricePerSqm": 36050, "totalPrice": 6597150 },
+        "5_11": { "area": 183, "pricePerSqm": 36450, "totalPrice": 6670350 }
+    },
+    "H-5": {
+        "3_4": { "area": 183, "pricePerSqm": 33500, "totalPrice": 6130500 },
+        "5_11": { "area": 183, "pricePerSqm": 33900, "totalPrice": 6203700 }
+    },
+    "H-6": {
+        "3_4": { "area": 148, "pricePerSqm": 31850, "totalPrice": 4713800 },
+        "5_11": { "area": 148, "pricePerSqm": 32100, "totalPrice": 4750800 }
+    },
+    "I-1": {
+        "3_4": { "area": 116, "pricePerSqm": 33200, "totalPrice": 3851200 },
+        "5_11": { "area": 116, "pricePerSqm": 33500, "totalPrice": 3886000 }
+    },
+    "I-2": {
+        "3_4": { "area": 148, "pricePerSqm": 34000, "totalPrice": 5032000 },
+        "5_11": { "area": 148, "pricePerSqm": 34450, "totalPrice": 5098600 }
+    },
+    "I-3": {
+        "3_4": { "area": 148, "pricePerSqm": 34000, "totalPrice": 5032000 },
+        "5_11": { "area": 148, "pricePerSqm": 34450, "totalPrice": 5098600 }
+    },
+    "I-4": {
+        "3_4": { "area": 115, "pricePerSqm": 30100, "totalPrice": 3461500 },
+        "5_11": { "area": 115, "pricePerSqm": 30500, "totalPrice": 3507500 }
+    },
+    "I-5": {
+        "3_4": { "area": 121, "pricePerSqm": 30100, "totalPrice": 3642100 },
+        "5_11": { "area": 121, "pricePerSqm": 30500, "totalPrice": 3690500 }
+    },
+    "I-6": {
+        "3_4": { "area": 121, "pricePerSqm": 30100, "totalPrice": 3642100 },
+        "5_11": { "area": 121, "pricePerSqm": 30500, "totalPrice": 3690500 }
+    },
+    "I-7": {
+        "3_4": { "area": 121, "pricePerSqm": 33200, "totalPrice": 4017200 },
+        "5_11": { "area": 121, "pricePerSqm": 33500, "totalPrice": 4053500 }
+    },
+    "I-8": {
+        "3_4": { "area": 121, "pricePerSqm": 33200, "totalPrice": 4017200 },
+        "5_11": { "area": 121, "pricePerSqm": 33500, "totalPrice": 4053500 }
+    },
+    "K-1": {
+        "3_4": { "area": 119, "pricePerSqm": 31850, "totalPrice": 3790150 },
+        "5_11": { "area": 119, "pricePerSqm": 32100, "totalPrice": 3819900 }
+    },
+    "K-2": {
+        "3_4": { "area": 120, "pricePerSqm": 31850, "totalPrice": 3822000 },
+        "5_11": { "area": 120, "pricePerSqm": 32100, "totalPrice": 3852000 }
+    },
+    "K-3": {
+        "3_4": { "area": 120, "pricePerSqm": 30100, "totalPrice": 3612000 },
+        "5_11": { "area": 120, "pricePerSqm": 30500, "totalPrice": 3660000 }
+    },
+    "K-4": {
+        "3_4": { "area": 119, "pricePerSqm": 30100, "totalPrice": 3581900 },
+        "5_11": { "area": 119, "pricePerSqm": 30500, "totalPrice": 3629500 }
+    },
+    "K-5": {
+        "3_4": { "area": 120, "pricePerSqm": 30100, "totalPrice": 3612000 },
+        "5_11": { "area": 120, "pricePerSqm": 30500, "totalPrice": 3660000 }
+    },
+    "K-6": {
+        "3_4": { "area": 119, "pricePerSqm": 30100, "totalPrice": 3581900 },
+        "5_11": { "area": 119, "pricePerSqm": 30500, "totalPrice": 3629500 }
+    },
+    "L-1": {
+        "3_4": { "area": 119, "pricePerSqm": 30100, "totalPrice": 3581900 },
+        "5_11": { "area": 119, "pricePerSqm": 30500, "totalPrice": 3629500 }
+    },
+    "L-2": {
+        "3_4": { "area": 120, "pricePerSqm": 30100, "totalPrice": 3612000 },
+        "5_11": { "area": 120, "pricePerSqm": 30500, "totalPrice": 3660000 }
+    },
+    "L-3": {
+        "3_4": { "area": 115, "pricePerSqm": 30100, "totalPrice": 3461500 },
+        "5_11": { "area": 115, "pricePerSqm": 30500, "totalPrice": 3507500 }
+    },
+    "L-4": {
+        "3_4": { "area": 149, "pricePerSqm": 30500, "totalPrice": 4544500 },
+        "5_11": { "area": 149, "pricePerSqm": 30750, "totalPrice": 4581750 }
+    },
+    "L-5": {
+        "3_4": { "area": 143, "pricePerSqm": 30500, "totalPrice": 4361500 },
+        "5_11": { "area": 143, "pricePerSqm": 30750, "totalPrice": 4397250 }
+    },
+    "L-6": {
+        "3_4": { "area": 110, "pricePerSqm": 30100, "totalPrice": 3311000 },
+        "5_11": { "area": 110, "pricePerSqm": 30500, "totalPrice": 3355000 }
+    },
+    "M-1": {
+        "3_4": { "area": 113, "pricePerSqm": 29050, "totalPrice": 3282650 },
+        "5_11": { "area": 113, "pricePerSqm": 29400, "totalPrice": 3322200 }
+    },
+    "M-2": {
+        "3_4": { "area": 143, "pricePerSqm": 31250, "totalPrice": 4468750 },
+        "5_11": { "area": 143, "pricePerSqm": 31500, "totalPrice": 4504500 }
+    },
+    "M-3": {
+        "3_4": { "area": 146, "pricePerSqm": 31250, "totalPrice": 4562500 },
+        "5_11": { "area": 146, "pricePerSqm": 31500, "totalPrice": 4599000 }
+    },
+    "M-4": {
+        "3_4": { "area": 115, "pricePerSqm": 29200, "totalPrice": 3358000 },
+        "5_11": { "area": 115, "pricePerSqm": 29600, "totalPrice": 3404000 }
+    },
+    "M-5": {
+        "3_4": { "area": 114, "pricePerSqm": 29200, "totalPrice": 3328800 },
+        "5_11": { "area": 114, "pricePerSqm": 29600, "totalPrice": 3374400 }
+    },
+    "M-6": {
+        "3_4": { "area": 109, "pricePerSqm": 29050, "totalPrice": 3166450 },
+        "5_11": { "area": 109, "pricePerSqm": 29400, "totalPrice": 3204600 }
+    },
+    "N-1": {
+        "3_4": { "area": 120, "pricePerSqm": 29050, "totalPrice": 3486000 },
+        "5_11": { "area": 120, "pricePerSqm": 29800, "totalPrice": 3528000 }
+    },
+    "N-2": {
+        "3_4": { "area": 121, "pricePerSqm": 29400, "totalPrice": 3557400 },
+        "5_11": { "area": 121, "pricePerSqm": 29800, "totalPrice": 3605800 }
+    },
+    "N-3": {
+        "3_4": { "area": 155, "pricePerSqm": 29400, "totalPrice": 4557000 },
+        "5_11": { "area": 155, "pricePerSqm": 29800, "totalPrice": 4619000 }
+    },
+    "N-4": {
+        "3_4": { "area": 148, "pricePerSqm": 29400, "totalPrice": 4351200 },
+        "5_11": { "area": 148, "pricePerSqm": 29800, "totalPrice": 4410400 }
+    }
+}
