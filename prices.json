@@ -1,8 +1,8 @@
 {
-    "A-111": {
-        "3_5": { "area": 281, "pricePerSqm": 11, "totalPrice": 11111 },
-        "6_8": { "area": 281, "pricePerSqm": 11, "totalPrice": 1111 },
-        "9_11": { "area": 281, "pricePerSqm": 11, "totalPrice": 111 }
+    "A-1": {
+        "3_5": { "area": 281, "pricePerSqm": 52900, "totalPrice": 14864900 },
+        "6_8": { "area": 281, "pricePerSqm": 53250, "totalPrice": 14963250 },
+        "9_11": { "area": 281, "pricePerSqm": 53750, "totalPrice": 15103750 }
     },
     "A-2": {
         "3_5": { "area": 300, "pricePerSqm": 54000, "totalPrice": 16200000 },
